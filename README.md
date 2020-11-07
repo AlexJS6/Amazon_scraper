@@ -12,8 +12,8 @@ This is a very small project to learn the different possibilities of python. The
 
 ![project Figma](backend/public/images/Figma.png)
 
-## My Code
+## The 2 main functions
 
-![Project Model](backend/public/images/white_board_project.jpg)
+![Project Model](pictures/code.png)
 
 ### Work in Progress ... 
