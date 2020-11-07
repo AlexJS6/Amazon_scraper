@@ -9,7 +9,7 @@
 This is a very small project to learn the different possibilities of python. These are just 2 main functions and a bit of code to send an Email whenever the "Raspberry pi starter Kit" is under 100 euros.
 It tests every 2 days and sleeps between.
 
-## My Figma  
+## My Email
 
 ![Code Screenshot](pictures/email.png)
 
